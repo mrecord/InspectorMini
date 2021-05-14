@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addToMenu</key>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>inspectorMini.py</string>
+			<key>preferredName</key>
+			<string>Inspector Mini</string>
+			<key>shortKey</key>
+			<array>
+				<integer>1179648</integer>
+				<string>I</string>
+			</array>
+		</dict>
+	</array>
+	<key>developer</key>
+	<string>Mark Record</string>
+	<key>developerURL</key>
+	<string>http://commercialtype.com</string>
+	<key>html</key>
+	<false/>
+	<key>launchAtStartUp</key>
+	<integer>0</integer>
+	<key>mainScript</key>
+	<string></string>
+	<key>name</key>
+	<string>Inspector Mini</string>
+	<key>timeStamp</key>
+	<real>1556301905.2388601</real>
+	<key>version</key>
+	<string>0.2</string>
+</dict>
+</plist>
